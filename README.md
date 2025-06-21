@@ -49,8 +49,13 @@ These models are fine-tuned using **Transfer Learning**, allowing them to adapt 
 4. Result is displayed in the application or sent as a reply in Discord.
 
 ## 📌 Installation
+
 - Application
+
 https://drive.google.com/file/d/1kNf8TEvqC75qxuXXjBnu17dVoKaOPZqC/view?usp=drive_link
+
 - Discord Bot
+
 https://discord.com/oauth2/authorize?client_id=1318625801209643079&permissions=8&integration_type=0&scope=bot
+
 ! Please see Instruction Manual.pdf for further information.

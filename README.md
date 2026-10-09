@@ -1,3 +1,8 @@
+# This project was made by:
+- Liauw, Jeremy Marvelle
+- Mary Anggita Priscilla
+- Filipus Darren Siswanto
+
 # AID-R: AI-Powered Diabetic Retinopathy Detection
 
 AID-R is a telemedicine-integrated product enhanced with Artificial Intelligence, specifically deep learning. It focuses on detecting retinal abnormalities to determine the presence and severity of **diabetic retinopathy** in patients. This condition is common among individuals with diabetes and, if left untreated, may lead to vision loss or blindness.
